@@ -1,10 +1,7 @@
-function helloWorld() {
-var hello = "Hello world!";
+(function() {
 
-alert(hello);
+    var hello = "Hello world!";
 
-};
+    alert(hello);
 
-helloWorld();
-
-
+})();
